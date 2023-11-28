@@ -6,7 +6,7 @@
 * Build projects Contribute Digitally 📦
 
 ## Programming Languages & Frameworks
-![Skills](https://skills.thijs.gg/icons?i=c,py,java,js,html,css,mysql,,flask,sqlite,,express,nodejs)
+![Skills](https://skills.thijs.gg/icons?i=c,py,java,js,html,css,mysql,flask,sqlite,express,nodejs)
 
 ## Tools
 ![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,arduino,raspberrypi,autocad,bootstrap,codepen,visualstudio,vscode,eclipse)
@@ -24,8 +24,7 @@
 <a href="mailto:shanjaivm@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="https://www.linkedin.com/in/shanjayvm/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.medium.com/@shanjaikumar0001/">![Medium](https://skills.thijs.gg/icons?i=medium)</a>
-<a href="https://www.medium.com/@shanjaikumar0001/" class="text-underline font-size-sm" target="_blank"> 
-<a href="https://iconscout.com/contributors/enamostudios" class="text-underline font-size-sm" target="_blank"></a> </a>
+<a href="https://www.medium.com/@shanjaikumar0001/"> <img height="48" width="48" src="https://iconscout.com/free-icon/medium-4054255" > </a>
 <a href="https://twitter.com/Shanjai_007">![Twitter](https://skills.thijs.gg/icons?i=twitter)</a>
 
 
