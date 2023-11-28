@@ -24,7 +24,7 @@
 <a href="mailto:shanjaivm@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="https://www.linkedin.com/in/shanjayvm/">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.medium.com/@shanjaikumar0001/">![Medium](https://skills.thijs.gg/icons?i=medium)</a>
-<a href="https://www.medium.com/@shanjaikumar0001/"> <img height="48" width="48" src="https://iconscout.com/free-icon/medium-4054255" > </a>
+<a href="https://www.medium.com/@shanjaikumar0001/"> <img height="48" width="48" src="https://storage.googleapis.com/buck_create/medium.png" > </a>
 <a href="https://twitter.com/Shanjai_007">![Twitter](https://skills.thijs.gg/icons?i=twitter)</a>
 
 
