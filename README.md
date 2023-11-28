@@ -3,7 +3,7 @@
 # About Me
 * Hi 👋 I'm [Shanjai Kumar](https://shanjai-profiles.onrender.com/)
 * 🖖 Daily Learner
-* Build projects Contribute Digitally 📦
+* Build projects && Contribute Digitally 📦
 *  🔭 I’m currently working on Nodejs && Js
 *  🌱 I’m currently learning DSA
 ## Programming Languages & Frameworks
