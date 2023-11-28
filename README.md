@@ -4,7 +4,8 @@
 * Hi 👋 I'm [Shanjai Kumar](https://shanjai-profiles.onrender.com/)
 * 🖖 Daily Learner
 * Build projects Contribute Digitally 📦
-
+*  🔭 I’m currently working on Nodejs && Js
+*  🌱 I’m currently learning DSA
 ## Programming Languages & Frameworks
 ![Skills](https://skills.thijs.gg/icons?i=c,py,java,js,html,css,mysql,flask,sqlite,express,nodejs)
 
