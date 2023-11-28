@@ -1,4 +1,4 @@
-# Hi there 👋
+
 
 # About Me
 * Hi 👋 I'm [Shanjai Kumar](https://shanjai-profiles.onrender.com/)
