@@ -16,6 +16,7 @@
 [![Shanjai's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sAnju3888&theme=github-dark)](https://github.com/sAnju3888)
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sAnju3888&theme=dark)](https://git.io/streak-stats)
+![Shanjai's GitHub Stats](https://github-readme-stats-dga59piw8-sAnju3888.vercel.app/api?username=sAnju3888&show_icons=true&theme=dark&hide_border=false)
 
 
 
