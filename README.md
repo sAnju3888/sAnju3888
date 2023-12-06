@@ -18,7 +18,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sAnju3888&theme=dark)](https://git.io/streak-stats)
 [![Shanjai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sAnju3888&theme=radical)](https://github.com/sAnju3888)
 
-
+<p align="center">
+  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sAnju3888&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
+</p>
 
 
 ## 📫 How to reach me: ...
