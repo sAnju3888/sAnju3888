@@ -17,7 +17,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sAnju3888&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 
 
-<p>## 📫 How to reach me: ...</p>
+## 📫 How to reach me: ...
 <a href="https://sAnju3888.github.io/shanjai/" target="_blank"><img height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png" ></a>
 <a href="mailto:shanjaivm@gmail.com"  target="_blank"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="https://www.linkedin.com/in/shanjayvm/"  target="_blank"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"></a>
