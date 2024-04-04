@@ -28,8 +28,8 @@
 
 <a href="https://sAnju3888.github.io/shanjai/" target="_blank"><img height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png" ></a>
 <a href="mailto:shanjaivm@gmail.com"  target="_blank"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/shanjayvm/"  target="_blank">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
-<a href="https://www.medium.com/@shanjaikumar0001/"  target="_blank"> <img height="48" width="48" src="https://storage.googleapis.com/buck_create/medium%20(3).png" > </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanjayvm) 
+<a href="https://www.medium.com/@shanjaikumar0001/"  target="_blank"> <img height="48" width="48" src="https://www.flaticon.com/free-icon/medium_5968933" > </a>
 <a href="https://twitter.com/Shanjai_007"  target="_blank">![Twitter](https://skills.thijs.gg/icons?i=twitter)</a>
 
 
