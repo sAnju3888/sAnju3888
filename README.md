@@ -1,8 +1,9 @@
-* Hi 👋 I'm [Shanjai Kumar](https://shanjai-profiles.onrender.com/)
+# Hey there!👋 I'm <a href = "https://shanjai-profiles.onrender.com/">Shanjai Kumar</a>
 * 🖖 Daily Learner
 * Build projects && Contribute Digitally 📦
-*  🔭 I’m currently working on Nodejs && Js
-*  🌱 I’m currently learning DSA
+*  🔭 I’m currently working on Angular Js
+*  🌱 Technology is the revolution
+*  Memes rule the world
 ## Programming Languages & Frameworks
 <table>
 	<tr>
