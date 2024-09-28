@@ -4,9 +4,29 @@
 *  🔭 I’m currently working on Nodejs && Js
 *  🌱 I’m currently learning DSA
 ## Programming Languages & Frameworks
-![Skills](https://skills.thijs.gg/icons?i=c,py,java,js,html,css,mysql,flask,sqlite,express,nodejs)
-## Tools
-![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,arduino,raspberrypi,autocad,bootstrap,codepen,visualstudio,vscode,eclipse)
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,py&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=angular,react&theme=dark" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=dotnet&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+
+</table>
 ## GitHub Contributions Graph
 [![Shanjai's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sAnju3888&theme=github-dark)](https://github.com/sAnju3888)
  
