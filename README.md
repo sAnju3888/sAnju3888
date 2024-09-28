@@ -40,10 +40,10 @@
 
 ## 📫 How to reach me: ...
 <a href="https://sAnju3888.github.io/shanjai/" target="_blank"><img height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png" ></a>
-<a href="mailto:shanjaivm@gmail.com"  target="_blank"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/shanjayvm/"  target="_blank"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"></a>
-<a href="https://www.medium.com/@shanjaikumar0001/"  target="_blank"> <img height="48" width="48" src="https://storage.googleapis.com/buck_create/medium%20(3).png" ></a>
-<a href="https://twitter.com/Shanjai_007"  target="_blank"><img src="https://skills.thijs.gg/icons?i=twitter" alt="Twitter"></a>
+<a href="mailto:shanjaivm@gmail.com"  target="_blank"><img height="48" width="48" src="https://skillicons.dev/icons?i=gmail&theme=dark" ></a>
+<a href="https://www.linkedin.com/in/shanjayvm/"  target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>
+
+
 
 <!--
 **sAnju3888/sAnju3888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
