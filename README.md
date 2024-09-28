@@ -1,7 +1,7 @@
 # Hey there!👋 I'm <a href = "https://shanjai-profiles.onrender.com/">Shanjai Kumar</a>
 * 🖖 Daily Learner
 * Build projects && Contribute Digitally 📦
-*  🔭 I’m currently working on Angular Js
+*  🔭 Code for fun
 *  🌱 Technology is the revolution
 *  Memes rule the world
 ## Programming Languages & Frameworks
